@@ -6,4 +6,4 @@ In order to run it properly:
 
 1) download the csv file
 2) import the db dump
-3) edit 'npl2.py' with the correct path to the csv file, and insert your credentials to set the db connection.
+3) edit 'npl.py' with the correct path to the csv file, and insert your credentials to set the db connection.
