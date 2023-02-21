@@ -1,5 +1,5 @@
 # nplSoftwareApp
-This is a script that use an nlp library to convert raw data, specifically movie lines form imdb movie database, into insights about the use of words in the english language.
+This is a script that use an nlp library to convert raw data, specifically text of articles from the web, into insights about the use of words in the english language.
 The script also store these information into a database, in order to execute queries and get useful statistics.
 
 In order to run it properly:
